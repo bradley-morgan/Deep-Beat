@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69503ca3-05c4-4180-9b5e-5414ccf70bb7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ijEiOeUxLu2GorWRjcFKHwmF76" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wavefiles/Raw" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.kapre-test">
+    <configuration name="clean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-Beat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/clean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kapre-test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-Beat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/kapre-test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-Beat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kapre-test" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.clean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69503ca3-05c4-4180-9b5e-5414ccf70bb7" name="Default Changelist" comment="" />
+      <created>1602412726468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602412726468</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602425562285">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="655" y="345" key="#com.intellij.fileTypes.FileTypeChooser/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602425562285" />
+    <state x="715" y="307" key="FileChooserDialogImpl" timestamp="1602413337677">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="715" y="307" key="FileChooserDialogImpl/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602413337677" />
+    <state width="1771" height="271" key="GridCell.Tab.0.bottom" timestamp="1602452289196">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1771" height="271" key="GridCell.Tab.0.bottom/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602452289196" />
+    <state width="929" height="271" key="GridCell.Tab.0.bottom/137.1103.1680.1027/0.23.1920.1057@137.1103.1680.1027" timestamp="1602437398583" />
+    <state width="1771" height="271" key="GridCell.Tab.0.center" timestamp="1602452289195">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1771" height="271" key="GridCell.Tab.0.center/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602452289195" />
+    <state width="929" height="271" key="GridCell.Tab.0.center/137.1103.1680.1027/0.23.1920.1057@137.1103.1680.1027" timestamp="1602437398582" />
+    <state width="1771" height="271" key="GridCell.Tab.0.left" timestamp="1602452289195">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1771" height="271" key="GridCell.Tab.0.left/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602452289195" />
+    <state width="929" height="271" key="GridCell.Tab.0.left/137.1103.1680.1027/0.23.1920.1057@137.1103.1680.1027" timestamp="1602437398582" />
+    <state width="1771" height="271" key="GridCell.Tab.0.right" timestamp="1602452289195">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1771" height="271" key="GridCell.Tab.0.right/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602452289195" />
+    <state width="929" height="271" key="GridCell.Tab.0.right/137.1103.1680.1027/0.23.1920.1057@137.1103.1680.1027" timestamp="1602437398583" />
+    <state width="1771" height="335" key="GridCell.Tab.1.bottom" timestamp="1602441326995">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1771" height="335" key="GridCell.Tab.1.bottom/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602441326995" />
+    <state width="929" height="335" key="GridCell.Tab.1.bottom/137.1103.1680.1027/0.23.1920.1057@137.1103.1680.1027" timestamp="1602436737771" />
+    <state width="1771" height="335" key="GridCell.Tab.1.center" timestamp="1602441326994">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1771" height="335" key="GridCell.Tab.1.center/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602441326994" />
+    <state width="929" height="335" key="GridCell.Tab.1.center/137.1103.1680.1027/0.23.1920.1057@137.1103.1680.1027" timestamp="1602436737771" />
+    <state width="1771" height="335" key="GridCell.Tab.1.left" timestamp="1602441326994">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1771" height="335" key="GridCell.Tab.1.left/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602441326994" />
+    <state width="929" height="335" key="GridCell.Tab.1.left/137.1103.1680.1027/0.23.1920.1057@137.1103.1680.1027" timestamp="1602436737770" />
+    <state width="1771" height="335" key="GridCell.Tab.1.right" timestamp="1602441326994">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1771" height="335" key="GridCell.Tab.1.right/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602441326994" />
+    <state width="929" height="335" key="GridCell.Tab.1.right/137.1103.1680.1027/0.23.1920.1057@137.1103.1680.1027" timestamp="1602436737771" />
+    <state x="436" y="184" key="SettingsEditor" timestamp="1602423297612">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="436" y="184" key="SettingsEditor/137.1103.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1602423297612" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/clean.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/clean.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/test.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/kapre-test.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

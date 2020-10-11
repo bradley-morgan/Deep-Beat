@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Environemnt files
+deep-beat-env/
+
+#Data Files
+wavefiles/
+
+# Mac DS_store
+.DS_Store
